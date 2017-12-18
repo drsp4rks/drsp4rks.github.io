@@ -1,3 +1,5 @@
 .main-content-container {
+    border: 1px solid limegreen;
+    width: 50%;
     margin: auto;
 }
